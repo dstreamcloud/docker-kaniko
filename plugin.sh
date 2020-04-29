@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-source ${PLUGIN_SCRIPT}
+sh ${PLUGIN_SCRIPT}
